@@ -1,4 +1,4 @@
 ws-consumer
 ===========
 
-Basic template for Scala/Maven project for IntelliJ IDEA
+Basic template for Scala, JOOQ, PostgreSQL, Maven project for IntelliJ IDEA
